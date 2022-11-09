@@ -1,0 +1,24 @@
+<?
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_1'] = 'Please type symbols you see on the picture';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_2'] = 'Enter the characters you see on the picture';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_3'] = 'Please type in the symbols shown in the image above';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_4'] = 'Symbols on picture';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_5'] = 'Enter Text from Image';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_6'] = 'CAPTCHA Code';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_7'] = 'Symbols on picture';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_8'] = 'Confirmation Code';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_9'] = 'CAPTCHA image characters';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_INPUT_10'] = 'Type text from image';
+
+$MESS['INTERVOLGA_RECAPTCHA.REPLACE_TEXT_INPUT'] = 'Human Verification';
+
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_HEAD_1'] = 'Please type the word you see in the image';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_HEAD_2'] = 'Spam bot protection (CAPTCHA)';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_HEAD_3'] = 'Anti-bot protection';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_HEAD_4'] = 'Protection from automated form filling';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_HEAD_5'] = 'Automated registration prevention';
+$MESS['INTERVOLGA_RECAPTCHA.SEARCH_TEXT_HEAD_6'] = 'CAPTCHA';
+
+$MESS['INTERVOLGA_RECAPTCHA.REPLACE_TEXT_HEAD'] = 'Spam bot protection (reCaptcha)';
+
+$MESS['INTERVOLGA.RECAPTCHA_ERROR'] = '[INTERVOLGA.RECAPTCHA_ERROR] Error get response reCaptcha';

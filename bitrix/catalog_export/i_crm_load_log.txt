@@ -1,0 +1,9 @@
+2022:11:09 05:24:12: Start Loading
+2022:11:09 05:24:12: 500 product(s) has been loaded from 10 IB (memory usage: 16070912)
+2022:11:09 05:24:12: 1000 product(s) has been loaded from 10 IB (memory usage: 20711432)
+2022:11:09 05:24:13: 1500 product(s) has been loaded from 10 IB (memory usage: 25701512)
+2022:11:09 05:24:13: 2000 product(s) has been loaded from 10 IB (memory usage: 26807952)
+2022:11:09 05:24:14: 2500 product(s) has been loaded from 10 IB (memory usage: 32484040)
+2022:11:09 05:24:14: 3000 product(s) has been loaded from 10 IB (memory usage: 36600672)
+2022:11:09 05:24:15: 3500 product(s) has been loaded from 10 IB (memory usage: 38584728)
+2022:11:09 05:24:15: Loading was ended successfully (peek memory usage: 44600808)

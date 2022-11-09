@@ -1,0 +1,182 @@
+#appOnOrder {
+    -webkit-transition: 0.1s all ease-in-out;
+    -o-transition: 0.1s all ease-in-out;
+    transition: 0.1s all ease-in-out;
+    background: rgba(0, 0, 0, 0.4);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 1001;
+    left: 0px;
+    top: 0px;
+    display: none;
+    overflow: auto;
+}
+
+#modal_on_order .result{
+    min-width: 300px;
+    display: none;
+    position: absolute;
+    top: 45%;
+    padding: 10px;
+    /*margin-top: 80%*/
+}
+
+#appOnOrder input.error {
+    border: 1px solid #ff0000 !important;
+}
+
+
+
+#appOnOrder input[type="checkbox"].error + label{
+    border-bottom: 1px solid #ff0000 !important;
+}
+
+#modal_on_order{
+	width: auto;
+	max-width: 350px;
+	height: auto;
+	position: fixed;
+	display: inline-block;
+    top: calc(50% - 300px);
+    left: calc(50% - 175px);
+	z-index: 1010;
+	background: #fff;
+	box-shadow: 1px 1px 12px rgba(60, 60, 60, 0.3);
+}
+
+#modal_on_order .heading{
+	position: relative;
+    text-align: center;
+    line-height: 60px;
+    font-size: 18px;
+    height: 60px;
+	background-color: #424242;
+    color: #ffffff;
+}
+#modal_on_order .close {
+    background: url(/local/templates/dresscodeV2/images/exit.png) 0 0 no-repeat transparent;
+    position: absolute;
+    display: block;
+    height: 21px;
+    width: 21px;
+    right: 20px;
+    top: 20px;
+}
+
+
+#modal_on_order .on_order_description{
+	padding: 10px 0;
+	display: inline-block;
+}
+
+#modal_on_order .content{
+	padding: 10px 20px;
+}
+
+#modal_on_order .form_title{
+	background-color: blue;
+	width: 100%;
+}
+
+[name*="modal_on_order"] > input,
+[name*="modal_on_order"] > textarea{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+#modal_on_order input:not([id*="personalInfoCheck"]){
+	font: normal normal 13px "roboto_ltregular" , arial , sans-serif;
+	outline: none;
+
+	width: 100%;
+
+	-webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "roboto_ltregular";
+    padding-left: 12px;
+    min-height: 50px;
+    border: 0;
+	background-color: #f3f3f3;
+    color: #000000;
+}
+
+#modal_on_order > input[placeholder] {
+    text-overflow: ellipsis;
+}
+
+
+#appOnOrder textarea {
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "roboto_ltregular";
+    padding-left: 12px;
+    padding-top: 12px;
+    resize: none;
+    width: 100%;
+    height: 60px;
+    border: 0;
+    background-color: #f3f3f3;
+}
+
+#captcha{
+    padding-bottom: 10px;
+}
+
+.on_order-form__submit{
+	width: 100%;
+}
+
+@media screen and (max-height: 800px){
+    #modal_on_order {
+        max-height: 670px;
+        height: auto;
+        min-height: 350px;
+        overflow-y: auto;
+        /*overflow: hidden;*/
+        -webkit-overflow-scrolling: touch;
+    }
+    #modal_on_order .result{
+        margin-top: calc(50% - 70px);
+        display: block;
+    }
+}
+
+@media screen and (max-height: 600px) {
+    #modal_on_order {
+        top: calc(50% - 300px);
+        max-height: 500px;
+    }
+}
+@media screen and (max-height: 550px) {
+    #modal_on_order {
+        top: calc(50% - 275px);
+    }
+}
+
+@media screen and (max-height: 500px) {
+    #modal_on_order {
+        top: calc(50% - 250px);
+        max-height: 400px;
+    }
+}
+
+@media screen and (max-height: 450px){
+    #modal_on_order {
+        top: calc(50% - 225px);
+    }
+}
+@media screen and (max-height: 400px) {
+    #modal_on_order {
+        top: calc(50% - 200px);
+        max-height: 300px;
+    }
+}

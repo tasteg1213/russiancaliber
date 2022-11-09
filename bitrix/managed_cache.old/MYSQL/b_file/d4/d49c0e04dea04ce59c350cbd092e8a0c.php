@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001663157322';
+$dateexpire = '001663160922';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:250;a:14:{s:2:"ID";s:3:"250";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-06-12 10:07:39.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"400";s:5:"WIDTH";s:3:"400";s:9:"FILE_SIZE";s:5:"15413";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/972";s:9:"FILE_NAME";s:36:"97213bbbd90830d78da98586eba9e0f1.jpg";s:13:"ORIGINAL_NAME";s:29:"GENERAL BINOCULARS 40S6 1.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"849adabd725ec69738552cc044829674";s:4:"~src";b:0;}i:257;a:14:{s:2:"ID";s:3:"257";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-06-12 10:09:02.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"400";s:5:"WIDTH";s:3:"400";s:9:"FILE_SIZE";s:5:"16035";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/106";s:9:"FILE_NAME";s:36:"10651a6900628009ead369a24943728b.jpg";s:13:"ORIGINAL_NAME";s:26:"GENERAL GOGGLES 13S3 1.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"3197d1378618d1b1515892c97508ec73";s:4:"~src";b:0;}}}';
+return true;
+?>

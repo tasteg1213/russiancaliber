@@ -1,0 +1,8 @@
+<?
+if(IsModuleInstalled('report'))
+{
+	$updater->CopyFiles("install/components", "components");
+	//Following copy was parsed out from module installer
+	$updater->CopyFiles("install/public/js", "js");
+}
+?>

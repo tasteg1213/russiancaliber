@@ -1,0 +1,65 @@
+2022-11-09 13:40:28 - Host: samara.russiancaliber.ru - LOW_PRIORITY_ERROR - [ErrorException] E_WARNING
+reset() expects parameter 1 to be array, null given (0)
+/home/c/cu92072/bitrix/public_html/local/templates/dresscodeV2/components/dresscode/catalog.item/line/template.php:198
+#0: reset(NULL)
+	/home/c/cu92072/bitrix/public_html/local/templates/dresscodeV2/components/dresscode/catalog.item/line/template.php:198
+#1: include(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component_template.php:790
+#2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component_template.php:885
+#3: CBitrixComponentTemplate->IncludeTemplate(array)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:775
+#4: CBitrixComponent->showComponentTemplate()
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:716
+#5: CBitrixComponent->includeComponentTemplate()
+	/home/c/cu92072/bitrix/public_html/bitrix/components/dresscode/catalog.item/component.php:737
+#6: include(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:607
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:684
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/main.php:1055
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cu92072/bitrix/public_html/local/templates/dresscodeV2/components/dresscode/catalog.section/line/template.php:39
+#10: include(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component_template.php:790
+#11: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component_template.php:885
+#12: CBitrixComponentTemplate->IncludeTemplate(array)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:775
+#13: CBitrixComponent->showComponentTemplate()
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:716
+#14: CBitrixComponent->includeComponentTemplate()
+	/home/c/cu92072/bitrix/public_html/bitrix/components/dresscode/catalog.section/component.php:529
+#15: include(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:607
+#16: CBitrixComponent->__includeComponent()
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:684
+#17: CBitrixComponent->includeComponent(string, array, object, boolean)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/main.php:1055
+#18: CAllMain->IncludeComponent(string, string, array, object)
+	/home/c/cu92072/bitrix/public_html/local/templates/dresscodeV2/components/bitrix/catalog/.default/section.php:457
+#19: include(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component_template.php:790
+#20: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component_template.php:885
+#21: CBitrixComponentTemplate->IncludeTemplate(array)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:775
+#22: CBitrixComponent->showComponentTemplate()
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:716
+#23: CBitrixComponent->includeComponentTemplate(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/components/bitrix/catalog/component.php:171
+#24: include(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:607
+#25: CBitrixComponent->__includeComponent()
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/component.php:684
+#26: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/classes/general/main.php:1055
+#27: CAllMain->IncludeComponent(string, string, array, boolean)
+	/home/c/cu92072/bitrix/public_html/catalog/index.php:596
+#28: include_once(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/modules/main/include/urlrewrite.php:184
+#29: include_once(string)
+	/home/c/cu92072/bitrix/public_html/bitrix/urlrewrite.php:2
+----------
+

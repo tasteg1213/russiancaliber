@@ -1,0 +1,14 @@
+/upload
+/bitrix/cache
+/bitrix/managed_cache
+/bitrix/html_pages
+*.log
+/.idea
+/.htaccess
+/.htpasswd
+/robots.txt
+/bitrix/backup
+/bitrix/tmp
+/local.tar.gz
+/etrade_http_tunnel2.zip
+

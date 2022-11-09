@@ -1,0 +1,1 @@
+<?define("intervolga_recaptcha_TEMPORARY_CACHE", "J2YNC3k1VFU9UnllA20CelAk");?>

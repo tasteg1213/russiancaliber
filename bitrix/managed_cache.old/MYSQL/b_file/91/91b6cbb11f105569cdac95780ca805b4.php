@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001663157322';
+$dateexpire = '001663160922';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:450;a:14:{s:2:"ID";s:3:"450";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-06-29 11:36:33.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"480";s:5:"WIDTH";s:3:"642";s:9:"FILE_SIZE";s:5:"84032";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/14d";s:9:"FILE_NAME";s:36:"14dc9eec4bf7d24e4ea0b892de3f30d8.JPG";s:13:"ORIGINAL_NAME";s:25:"Pulsar Helion XQ50F 1.JPG";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"cd86412ff24d831564d743d6e71e204e";s:4:"~src";b:0;}i:456;a:14:{s:2:"ID";s:3:"456";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-05-29 13:00:14.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"136";s:5:"WIDTH";s:3:"150";s:9:"FILE_SIZE";s:5:"11555";s:12:"CONTENT_TYPE";s:9:"image/png";s:6:"SUBDIR";s:10:"iblock/c1c";s:9:"FILE_NAME";s:36:"c1c652ad4861486e942f0bb85993cfc3.png";s:13:"ORIGINAL_NAME";s:15:"new_small_1.png";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"23d2b459d9d233375c36b9c46b2f8aad";s:4:"~src";b:0;}}}';
+return true;
+?>

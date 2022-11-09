@@ -1,0 +1,4 @@
+<?
+$MESS["BX_CATALOG_PRODUCT_SYSTEMFIELD_BASE_ERR_CREATE_UF_COMMON"] = "¬нутренн€€ ошибка при создании пользовательского пол€ #FIELD_NAME#";
+$MESS["CATALOG_PRODUCT_SYSTEMFIELD_TYPE_BASE_EMPTY_LIST_VALUE"] = "не выбрано";
+?>

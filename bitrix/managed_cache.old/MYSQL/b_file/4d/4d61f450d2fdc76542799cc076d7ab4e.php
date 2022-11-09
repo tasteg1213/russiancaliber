@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001663157322';
+$dateexpire = '001663160922';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:2640;a:14:{s:2:"ID";s:4:"2640";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2022-07-06 09:43:22.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"800";s:5:"WIDTH";s:3:"800";s:9:"FILE_SIZE";s:6:"145124";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/3ae";s:9:"FILE_NAME";s:36:"3ae2e46fb2963a69ede946beb5526cce.jpg";s:13:"ORIGINAL_NAME";s:36:"15ac87a57ba46bfd3efdee44266de169.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"1f22fde60f32bcf309064b7e7af34e7b";s:4:"~src";b:0;}i:2641;a:14:{s:2:"ID";s:4:"2641";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2022-07-06 09:43:22.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:7:"3553357";s:12:"CONTENT_TYPE";s:15:"application/pdf";s:6:"SUBDIR";s:10:"iblock/139";s:9:"FILE_NAME";s:36:"139bdc87ae7cb206db949c2b79afa1f6.pdf";s:13:"ORIGINAL_NAME";s:30:"Инструкция Fortuna General.pdf";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"66316f100a2cab76b8c6b33277ec68fe";s:4:"~src";b:0;}}}';
+return true;
+?>

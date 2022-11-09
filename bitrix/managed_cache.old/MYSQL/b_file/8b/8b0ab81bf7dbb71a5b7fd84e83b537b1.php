@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001663138187';
+$dateexpire = '001663141787';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:3083;a:14:{s:2:"ID";s:4:"3083";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-07-23 17:36:42.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:7:"2178256";s:12:"CONTENT_TYPE";s:15:"application/pdf";s:6:"SUBDIR";s:10:"iblock/71a";s:9:"FILE_NAME";s:36:"71a143722e9a91a228758fb7cde9dd0b.pdf";s:13:"ORIGINAL_NAME";s:29:"Инструкция Dedal 490 DK-3.pdf";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"90050be44f66b2418386e4e8a25cc7bc";s:4:"~src";b:0;}i:3089;a:14:{s:2:"ID";s:4:"3089";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-06-10 19:40:17.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:7:"2178256";s:12:"CONTENT_TYPE";s:15:"application/pdf";s:6:"SUBDIR";s:10:"iblock/7dc";s:9:"FILE_NAME";s:36:"7dc03ce9fd733805da5b775793e811a9.pdf";s:13:"ORIGINAL_NAME";s:29:"Инструкция Dedal 490 DK-3.pdf";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"d48268dfcce6c51899ccc183c4effa01";s:4:"~src";b:0;}}}';
+return true;
+?>

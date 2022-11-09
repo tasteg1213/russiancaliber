@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001663157322';
+$dateexpire = '001663160922';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:958;a:14:{s:2:"ID";s:3:"958";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-06-13 14:41:03.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"914";s:5:"WIDTH";s:4:"1371";s:9:"FILE_SIZE";s:6:"361211";s:12:"CONTENT_TYPE";s:9:"image/png";s:6:"SUBDIR";s:10:"iblock/b24";s:9:"FILE_NAME";s:36:"b2418b8bc7c0042cbc6abe4d3195534d.png";s:13:"ORIGINAL_NAME";s:5:"1.png";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"d7edb5d0538908dba171bd4cc379bf74";s:4:"~src";b:0;}i:959;a:14:{s:2:"ID";s:3:"959";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-06-13 14:41:03.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:8:"25072810";s:12:"CONTENT_TYPE";s:15:"application/pdf";s:6:"SUBDIR";s:10:"iblock/462";s:9:"FILE_NAME";s:36:"462ccc3238a879ceb227be8b15c616dd.pdf";s:13:"ORIGINAL_NAME";s:41:"quantum-lite_booklet_print-version_en.pdf";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"ba494e6f0ec1cc70938f4a49a321bc14";s:4:"~src";b:0;}}}';
+return true;
+?>

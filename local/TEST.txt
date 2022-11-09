@@ -1,0 +1,358 @@
+Array
+(
+    [FLAG] => false
+    [propsToStr] => Ф.И.О: Наталья <br> Телефон 89175410975
+    [request_act] => sendFastForm
+    [newFields] => Array
+        (
+            [ORDER_ID] => 3750
+            [ORDER_REAL_ID] => 1488
+            [ORDER_ACCOUNT_NUMBER_ENCODE] => 3750
+            [ORDER_DATE] => 09.11.2022 12:17:46
+            [ORDER_USER] => Наталья 
+            [PRICE] => 150 900 руб.
+            [BCC] => info@russiancaliber.ru
+            [EMAIL] => unregistered@unregistered.com
+            [ORDER_LIST] => Тепловизионный монокуляр iRay Xeye 2 E3 Plus v2 - 1 шт x 150 900 руб.<br/>
+            [SALE_EMAIL] => info@russiancaliber.ru
+            [DELIVERY_PRICE] => 0
+            [ORDER_PUBLIC_URL] => 
+            [ACTION_TYPE] => Быстрый заказ
+            [CLIENT_MC_ID] => 1667985387475051818
+            [ALL_USER_DATA] => Ф.И.О: Наталья <br> Телефон 89175410975
+            [SHIPMENT_NAME] => Не определено 
+            [PAYMENT_NAME] => Не определено
+            [PERSON_TYPE] => Не определено
+        )
+
+    [arFields] => Array
+        (
+            [ORDER_ID] => 3750
+            [ORDER_REAL_ID] => 1488
+            [ORDER_ACCOUNT_NUMBER_ENCODE] => 3750
+            [ORDER_DATE] => 09.11.2022 12:17:46
+            [ORDER_USER] => Наталья 
+            [PRICE] => 150 900 руб.
+            [BCC] => info@russiancaliber.ru
+            [EMAIL] => unregistered@unregistered.com
+            [ORDER_LIST] => Тепловизионный монокуляр iRay Xeye 2 E3 Plus v2 - 1 шт x 150 900 руб.<br/>
+            [SALE_EMAIL] => info@russiancaliber.ru
+            [DELIVERY_PRICE] => 0
+            [ORDER_PUBLIC_URL] => 
+        )
+
+    [REQUEST] => Bitrix\Main\HttpRequest Object
+        (
+            [queryString:protected] => Bitrix\Main\Type\ParameterDictionary Object
+                (
+                    [rawValues:protected] => 
+                    [values:protected] => Array
+                        (
+                        )
+
+                )
+
+            [postData:protected] => Bitrix\Main\Type\ParameterDictionary Object
+                (
+                    [rawValues:protected] => 
+                    [values:protected] => Array
+                        (
+                            [act] => sendFastForm
+                            [site_id] => s2
+                            [CLIENT_MC_ID] => 1667985387475051818
+                            [basket-form-name] => РќР°С‚Р°Р»СЊСЏ 
+                            [basket-form-telephone] => 89175410975
+                            [basket-form-personal-info] => on
+                        )
+
+                )
+
+            [files:protected] => Bitrix\Main\Type\ParameterDictionary Object
+                (
+                    [rawValues:protected] => 
+                    [values:protected] => Array
+                        (
+                        )
+
+                )
+
+            [cookies:protected] => Bitrix\Main\Type\ParameterDictionary Object
+                (
+                    [rawValues:protected] => 
+                    [values:protected] => Array
+                        (
+                            [SALE_UID] => 38fd715a615153dac4e0e3262bf4f22d
+                        )
+
+                )
+
+            [cookiesRaw:protected] => Bitrix\Main\Type\ParameterDictionary Object
+                (
+                    [rawValues:protected] => 
+                    [values:protected] => Array
+                        (
+                            [_ga] => GA1.2.918125010.1667985387
+                            [_gid] => GA1.2.1560395108.1667985387
+                            [_gcl_au] => 1.1.906918677.1667985387
+                            [_ym_d] => 1667985387
+                            [_ym_isad] => 2
+                            [_ym_uid] => 1667985387475051818
+                            [BX_USER_ID] => 6194b35db8479f15a17e4004df20054a
+                            [BITRIX_CONVERSION_CONTEXT_s2] => {"ID":4,"EXPIRE":1668027540,"UNIQUE":["conversion_visit_day"]}
+                            [BITRIX_SM_SALE_UID] => 38fd715a615153dac4e0e3262bf4f22d
+                            [PHPSESSID] => 2yVbdZfg3jgbKb2HRqek78pGf7mu69Q5
+                            [__ddg1_] => eRoWax74lmRjYLLfYiV8
+                        )
+
+                )
+
+            [jsonData:protected] => Bitrix\Main\Type\ParameterDictionary Object
+                (
+                    [rawValues:protected] => 
+                    [values:protected] => Array
+                        (
+                        )
+
+                )
+
+            [headers:protected] => Bitrix\Main\Web\HttpHeaders Object
+                (
+                    [headers:protected] => Array
+                        (
+                            [host] => Array
+                                (
+                                    [name] => host
+                                    [values] => Array
+                                        (
+                                            [0] => russiancaliber.ru
+                                        )
+
+                                )
+
+                            [x-https] => Array
+                                (
+                                    [name] => x-https
+                                    [values] => Array
+                                        (
+                                            [0] => 1
+                                        )
+
+                                )
+
+                            [x-forwarded-proto] => Array
+                                (
+                                    [name] => x-forwarded-proto
+                                    [values] => Array
+                                        (
+                                            [0] => https
+                                        )
+
+                                )
+
+                            [connection] => Array
+                                (
+                                    [name] => connection
+                                    [values] => Array
+                                        (
+                                            [0] => close
+                                        )
+
+                                )
+
+                            [content-length] => Array
+                                (
+                                    [name] => content-length
+                                    [values] => Array
+                                        (
+                                            [0] => 184
+                                        )
+
+                                )
+
+                            [content-type] => Array
+                                (
+                                    [name] => content-type
+                                    [values] => Array
+                                        (
+                                            [0] => application/x-www-form-urlencoded; charset=UTF-8
+                                        )
+
+                                )
+
+                            [accept] => Array
+                                (
+                                    [name] => accept
+                                    [values] => Array
+                                        (
+                                            [0] => application/json, text/javascript, */*; q=0.01
+                                        )
+
+                                )
+
+                            [x-requested-with] => Array
+                                (
+                                    [name] => x-requested-with
+                                    [values] => Array
+                                        (
+                                            [0] => XMLHttpRequest
+                                        )
+
+                                )
+
+                            [accept-language] => Array
+                                (
+                                    [name] => accept-language
+                                    [values] => Array
+                                        (
+                                            [0] => ru
+                                        )
+
+                                )
+
+                            [accept-encoding] => Array
+                                (
+                                    [name] => accept-encoding
+                                    [values] => Array
+                                        (
+                                            [0] => gzip, deflate, br
+                                        )
+
+                                )
+
+                            [origin] => Array
+                                (
+                                    [name] => origin
+                                    [values] => Array
+                                        (
+                                            [0] => https://russiancaliber.ru
+                                        )
+
+                                )
+
+                            [user-agent] => Array
+                                (
+                                    [name] => user-agent
+                                    [values] => Array
+                                        (
+                                            [0] => Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1
+                                        )
+
+                                )
+
+                            [referer] => Array
+                                (
+                                    [name] => referer
+                                    [values] => Array
+                                        (
+                                            [0] => https://russiancaliber.ru/personal/cart/
+                                        )
+
+                                )
+
+                            [cookie] => Array
+                                (
+                                    [name] => cookie
+                                    [values] => Array
+                                        (
+                                            [0] => _ga=GA1.2.918125010.1667985387; _gid=GA1.2.1560395108.1667985387; _gcl_au=1.1.906918677.1667985387; _ym_d=1667985387; _ym_isad=2; _ym_uid=1667985387475051818; BX_USER_ID=6194b35db8479f15a17e4004df20054a; BITRIX_CONVERSION_CONTEXT_s2=%7B%22ID%22%3A4%2C%22EXPIRE%22%3A1668027540%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; BITRIX_SM_SALE_UID=38fd715a615153dac4e0e3262bf4f22d; PHPSESSID=2yVbdZfg3jgbKb2HRqek78pGf7mu69Q5; __ddg1_=eRoWax74lmRjYLLfYiV8
+                                        )
+
+                                )
+
+                            [x-real-ip] => Array
+                                (
+                                    [name] => x-real-ip
+                                    [values] => Array
+                                        (
+                                            [0] => 91.193.179.14
+                                        )
+
+                                )
+
+                            [ddg-connecting-ip] => Array
+                                (
+                                    [name] => ddg-connecting-ip
+                                    [values] => Array
+                                        (
+                                            [0] => 91.193.179.14
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [httpHost:protected] => russiancaliber.ru
+            [acceptedLanguages:protected] => 
+            [server:protected] => Bitrix\Main\Server Object
+                (
+                    [rawValues:protected] => 
+                    [values:protected] => Array
+                        (
+                            [HTTPS] => On
+                            [REMOTE_USER] => 
+                            [HTTP_HOST] => russiancaliber.ru
+                            [HTTP_X_HTTPS] => 1
+                            [HTTP_X_FORWARDED_PROTO] => https
+                            [HTTP_CONNECTION] => close
+                            [CONTENT_LENGTH] => 184
+                            [CONTENT_TYPE] => application/x-www-form-urlencoded; charset=UTF-8
+                            [HTTP_ACCEPT] => application/json, text/javascript, */*; q=0.01
+                            [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+                            [HTTP_ACCEPT_LANGUAGE] => ru
+                            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+                            [HTTP_ORIGIN] => https://russiancaliber.ru
+                            [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1
+                            [HTTP_REFERER] => https://russiancaliber.ru/personal/cart/
+                            [HTTP_COOKIE] => _ga=GA1.2.918125010.1667985387; _gid=GA1.2.1560395108.1667985387; _gcl_au=1.1.906918677.1667985387; _ym_d=1667985387; _ym_isad=2; _ym_uid=1667985387475051818; BX_USER_ID=6194b35db8479f15a17e4004df20054a; BITRIX_CONVERSION_CONTEXT_s2=%7B%22ID%22%3A4%2C%22EXPIRE%22%3A1668027540%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; BITRIX_SM_SALE_UID=38fd715a615153dac4e0e3262bf4f22d; PHPSESSID=2yVbdZfg3jgbKb2HRqek78pGf7mu69Q5; __ddg1_=eRoWax74lmRjYLLfYiV8
+                            [HTTP_X_REAL_IP] => 91.193.179.14
+                            [HTTP_DDG_CONNECTING_IP] => 91.193.179.14
+                            [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+                            [SERVER_SIGNATURE] => 
+                            [SERVER_SOFTWARE] => Apache/2.4.29
+                            [SERVER_NAME] => russiancaliber.ru
+                            [SERVER_ADDR] => 127.0.6.35
+                            [SERVER_PORT] => 80
+                            [REMOTE_ADDR] => 91.193.179.14
+                            [DOCUMENT_ROOT] => /home/c/cu92072/bitrix/public_html
+                            [REQUEST_SCHEME] => http
+                            [CONTEXT_PREFIX] => 
+                            [CONTEXT_DOCUMENT_ROOT] => /home/c/cu92072/bitrix/public_html
+                            [SERVER_ADMIN] => info@timeweb.ru
+                            [SCRIPT_FILENAME] => /home/c/cu92072/bitrix/public_html/bitrix/components/dresscode/basket.fast.order/ajax.php
+                            [REMOTE_PORT] => 39504
+                            [GATEWAY_INTERFACE] => CGI/1.1
+                            [SERVER_PROTOCOL] => HTTP/1.0
+                            [REQUEST_METHOD] => POST
+                            [QUERY_STRING] => 
+                            [REQUEST_URI] => /bitrix/components/dresscode/basket.fast.order/ajax.php
+                            [SCRIPT_NAME] => /bitrix/components/dresscode/basket.fast.order/ajax.php
+                            [PHP_SELF] => /bitrix/components/dresscode/basket.fast.order/ajax.php
+                            [REQUEST_TIME_FLOAT] => 1667985466.4642
+                            [REQUEST_TIME] => 1667985466
+                            [argv] => Array
+                                (
+                                )
+
+                            [argc] => 0
+                        )
+
+                )
+
+            [requestedPage:protected] => /bitrix/components/dresscode/basket.fast.order/ajax.php
+            [requestedPageDirectory:protected] => /bitrix/components/dresscode/basket.fast.order/
+            [rawValues:protected] => 
+            [values:protected] => Array
+                (
+                    [act] => sendFastForm
+                    [site_id] => s2
+                    [CLIENT_MC_ID] => 1667985387475051818
+                    [basket-form-name] => РќР°С‚Р°Р»СЊСЏ 
+                    [basket-form-telephone] => 89175410975
+                    [basket-form-personal-info] => on
+                )
+
+        )
+
+)

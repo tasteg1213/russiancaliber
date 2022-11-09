@@ -1,0 +1,6 @@
+<?
+$sSectionName = "pochtabank";
+$arDirProperties = Array(
+
+);
+?>
